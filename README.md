@@ -24,6 +24,35 @@ rag-pdf-project/
 Основные библиотеки, необходимые для работы проекта:
 
 ```txt
-langchain
-pydantic
-python-dotenv
+langchain>=0.1.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+pypdf>=3.0.0
+tiktoken>=0.5.0
+
+
+## Инструкция по запуску
+
+### Требования
+- Python 3.9 или выше
+- Git
+
+### Установка
+
+1. **Клонировать репозиторий**
+   ```bash
+   git clone https://github.com/bandiougousissoko/RAG_Sissoko.git
+   cd RAG_Sissoko/rag-pdf-project
+
+
+
+## Как сохранить
+
+1. В VS Code откройте файл `README.md`
+2. Удалите всё старое содержимое
+3. Вставьте новый текст выше
+4. Нажмите `Ctrl+S`
+
+Готово! Теперь у вас красивый, профессиональный README для вашего проекта.
+
+
